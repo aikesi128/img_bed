@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "name": "midnight",
+        "displayName": "子夜幻境",
+        "colors": {
+            "page": "0F172A",
+            "navi": "0Ffa2A",
+            "card": "1E293B",
+            "main": "F1F5FF",
+            "second": "94A3B8",
+            "third": "94A228",
+            "incolor": "34D399",
+            "out": "F472B6",
+            "btn": "818CF8",
+            "line": "94A3B8"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "sunrise",
+        "displayName": "晨曦暖阳",
+        "colors": {
+            "page": "FEF3C7",
+            "navi": "F59E0B",
+            "card": "FFFBEB",
+            "main": "92400E",
+            "second": "D97706",
+            "third": "FBBF24",
+            "incolor": "10B981",
+            "out": "EF4444",
+            "btn": "F59E0B",
+            "line": "FCD34D"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "ocean",
+        "displayName": "深海蓝调",
+        "colors": {
+            "page": "0C4A6E",
+            "navi": "075985",
+            "card": "0369A1",
+            "main": "DBEAFE",
+            "second": "BAE6FD",
+            "third": "7DD3FC",
+            "incolor": "34D399",
+            "out": "F87171",
+            "btn": "7DD3FC",
+            "line": "5EEAD4"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "forest",
+        "displayName": "森林绿意",
+        "colors": {
+            "page": "14532D",
+            "navi": "166534",
+            "card": "15803D",
+            "main": "DCFFE4",
+            "second": "A7F3D0",
+            "third": "6EE7B7",
+            "incolor": "6EE7B7",
+            "out": "FBBF24",
+            "btn": "6EE7B7",
+            "line": "A7F3D0"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "lavender",
+        "displayName": "薰衣草紫",
+        "colors": {
+            "page": "312E81",
+            "navi": "4C1D95",
+            "card": "5B21B6",
+            "main": "EDE9FE",
+            "second": "DDD6FE",
+            "third": "C4B5FD",
+            "incolor": "A78BFA",
+            "out": "F472B6",
+            "btn": "A78BFA",
+            "line": "C4B5FD"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "sunset",
+        "displayName": "夕阳西下",
+        "colors": {
+            "page": "7C2D12",
+            "navi": "9A3412",
+            "card": "EA580C",
+            "main": "FFEDD5",
+            "second": "FED7AA",
+            "third": "FDBA74",
+            "incolor": "FACC15",
+            "out": "F87171",
+            "btn": "F97316",
+            "line": "FED7AA"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "mint",
+        "displayName": "薄荷清新",
+        "colors": {
+            "page": "0F766E",
+            "navi": "115E59",
+            "card": "134E4A",
+            "main": "F0FDF8",
+            "second": "CCFBF1",
+            "third": "99F6E4",
+            "incolor": "6EE7B7",
+            "out": "A5B4FC",
+            "btn": "6EE7B7",
+            "line": "A7F3D0"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "rose",
+        "displayName": "玫瑰粉黛",
+        "colors": {
+            "page": "881337",
+            "navi": "9F1239",
+            "card": "BE123C",
+            "main": "FDF2F8",
+            "second": "FBCFE8",
+            "third": "F9A8D4",
+            "incolor": "FB7185",
+            "out": "A5B4FC",
+            "btn": "FB7185",
+            "line": "FBCFE8"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "slate",
+        "displayName": "石板灰雅",
+        "colors": {
+            "page": "0F172A",
+            "navi": "334155",
+            "card": "475569",
+            "main": "F1F5F9",
+            "second": "CBD5E1",
+            "third": "94A3B8",
+            "incolor": "60A5FA",
+            "out": "F87171",
+            "btn": "64748B",
+            "line": "CBD5E1"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "amber",
+        "displayName": "琥珀金辉",
+        "colors": {
+            "page": "713F12",
+            "navi": "854D0E",
+            "card": "A16207",
+            "main": "FFFBEB",
+            "second": "FDE68A",
+            "third": "FCD34D",
+            "incolor": "FACC15",
+            "out": "FCA5A5",
+            "btn": "F59E0B",
+            "line": "FDE68A"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "emerald",
+        "displayName": "翡翠碧绿",
+        "colors": {
+            "page": "064E3B",
+            "navi": "047857",
+            "card": "059669",
+            "main": "ECFDF5",
+            "second": "A7F3D0",
+            "third": "6EE7B7",
+            "incolor": "34D399",
+            "out": "60A5FA",
+            "btn": "10B981",
+            "line": "A7F3D0"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "violet",
+        "displayName": "紫罗兰韵",
+        "colors": {
+            "page": "2E1065",
+            "navi": "4C1D95",
+            "card": "5B21B6",
+            "main": "F3E8FF",
+            "second": "D8B4FE",
+            "third": "C4B5FD",
+            "incolor": "A78BFA",
+            "out": "F472B6",
+            "btn": "8B5CF6",
+            "line": "D8B4FE"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "sky",
+        "displayName": "天空湛蓝",
+        "colors": {
+            "page": "0C4A6E",
+            "navi": "0369A1",
+            "card": "0284C7",
+            "main": "F0F9FF",
+            "second": "BAE6FD",
+            "third": "7DD3FC",
+            "incolor": "0EA5E9",
+            "out": "8B5CF6",
+            "btn": "0EA5E9",
+            "line": "BAE6FD"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": "lime",
+        "displayName": "青柠翠绿",
+        "colors": {
+            "page": "365314",
+            "navi": "3F6212",
+            "card": "65A30D",
+            "main": "F7FEE7",
+            "second": "DEF7A8",
+            "third": "C6E87A",
+            "incolor": "A3E635",
+            "out": "FB7185",
+            "btn": "A3E635",
+            "line": "DEF7A8"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "fuchsia",
+        "displayName": "洋红魅惑",
+        "colors": {
+            "page": "701A75",
+            "navi": "7E22CE",
+            "card": "A21CAF",
+            "main": "FDF4FF",
+            "second": "F5D0FE",
+            "third": "F0ABFC",
+            "incolor": "E879F9",
+            "out": "60A5FA",
+            "btn": "D946EF",
+            "line": "F5D0FE"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "teal",
+        "displayName": "鸭绿清新",
+        "colors": {
+            "page": "114E4E",
+            "navi": "13444C",
+            "card": "166534",
+            "main": "F0FDFA",
+            "second": "A7F3D0",
+            "third": "67E8F9",
+            "incolor": "2DD4BF",
+            "out": "F97316",
+            "btn": "2DD4BF",
+            "line": "A7F3D0"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 17,
+        "name": "orange",
+        "displayName": "橙色活力",
+        "colors": {
+            "page": "7C2D12",
+            "navi": "9A3412",
+            "card": "EA580C",
+            "main": "FFF7ED",
+            "second": "FED7AA",
+            "third": "FDBA74",
+            "incolor": "FDB022",
+            "out": "34D399",
+            "btn": "F59E0B",
+            "line": "FED7AA"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "indigo",
+        "displayName": "靛蓝深邃",
+        "colors": {
+            "page": "1E1B4B",
+            "navi": "312E81",
+            "card": "3730A3",
+            "main": "EDE9FE",
+            "second": "C7D2FE",
+            "third": "A5B4FC",
+            "incolor": "818CF8",
+            "out": "F87171",
+            "btn": "6366F1",
+            "line": "C7D2FE"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 19,
+        "name": "pink",
+        "displayName": "樱花粉嫩",
+        "colors": {
+            "page": "800F2F",
+            "navi": "9B1C31",
+            "card": "C2410C",
+            "main": "FDF2F8",
+            "second": "FBCFE8",
+            "third": "F9A8D4",
+            "incolor": "F472B6",
+            "out": "60A5FA",
+            "btn": "EC4899",
+            "line": "FBCFE8"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    },
+    {
+        "id": 20,
+        "name": "gray",
+        "displayName": "经典灰阶",
+        "colors": {
+            "page": "0F172A",
+            "navi": "334155",
+            "card": "475569",
+            "main": "F8FAFC",
+            "second": "E2E8F0",
+            "third": "94A3B8",
+            "incolor": "60A5FA",
+            "out": "F87171",
+            "btn": "64748B",
+            "line": "CBD5E1"
+        },
+        "fonts": {
+            "navi": {
+                "size": 16,
+                "weight": "semibold"
+            },
+            "main": {
+                "size": 13,
+                "weight": "semibold"
+            },
+            "second": {
+                "size": 12,
+                "weight": "regular"
+            },
+            "third": {
+                "size": 10,
+                "weight": "regular"
+            }
+        }
+    }
+]
